@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Exercícios - CRUD PostgreSQL
+# Exercícios - CRUD SQL
 
 ## Exercícios de classe 🏫
 
